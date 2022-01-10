@@ -1,4 +1,4 @@
-# PostureCheck
+# AIPostureCheck
 In order to get it work : 
 1. Connect a camera to the computer.
 2. Open the webcam.ipynb and run it.
